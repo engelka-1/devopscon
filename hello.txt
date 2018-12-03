@@ -1,7 +1,4 @@
 Hallo World
 I'm fine
-<<<<<<< HEAD
 This is a change in master branch
-=======
-Change from my branch
->>>>>>> mybranch
+
